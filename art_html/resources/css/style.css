@@ -1,0 +1,36 @@
+h1 {
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    text-align: center;
+    color: khaki;
+    background-image: url(C:/Codecademy/art_html/resources/bg.jpg);
+}
+
+h2 {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+h2.brush {
+    background-color: mediumspringgreen;
+}
+
+h2.frame {
+    background-color: lightcoral;
+}
+
+h2.paint {
+    background-color: skyblue;
+}
+
+p {
+    font-family: Helvetica;
+}
+
+span {
+    font-weight: bold;
+    color: blue;
+}
